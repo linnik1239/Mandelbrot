@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\IndexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\MeshConstructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\MovableGLM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\VertexArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\VertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\obj_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\stb_image.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\MeshConstructor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\MovableGLM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\someElseEngine\EngineForCGcourse-master-1\Engine3D\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\someElseEngine\EngineForCGcourse-master-1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D5B76F27-19E7-3934-9620-2319059F1167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A3EEA1F6-37B2-3753-B22D-BEDC369C8331}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
